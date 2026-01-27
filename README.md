@@ -1,9 +1,9 @@
 
 <div align="center">
 
-<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="Florune Logo" width="120"/>
+<img src="https://contractfoundry.web.app/icons/android-chrome-512x512.png" alt="SafePulse Logo" width="120"/>
 
-# Florune Wallet 
+# SafePulse Wallet 
 
 ### Non-Custodial On-Chain Agreement Infrastructure
 
@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/%20Download-Android_Beta-brightgreen?style=for-the-badge&logo=android" alt="Download Android Beta">
 </a>
 
-<a href="https://app.florune.net">
+<a href="https://app.safepulse.net">
   <img src="https://img.shields.io/badge/🌐%20Access-Web_dApp-blue?style=for-the-badge&logo=web" alt="Access Web dApp Beta">
 </a>
 
@@ -30,10 +30,10 @@
 ---
 <div align="center">
   
-![Telegram](https://img.shields.io/badge/Telegram-@floruneapp-0088cc?logo=telegram&logoColor=white)
-![Website](https://img.shields.io/badge/Website-florune.net-4caf50?logo=internet-explorer&logoColor=white)
-![Bluesky](https://img.shields.io/badge/Bluesky-@florune.net-1da1f2?logo=bluesky&logoColor=white)
-![X (Twitter)](https://img.shields.io/badge/X-@florune_dapp-1da1f2?logo=twitter&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram-@safepulseapp-0088cc?logo=telegram&logoColor=white)
+![Website](https://img.shields.io/badge/Website-safepulse.net-4caf50?logo=internet-explorer&logoColor=white)
+![Bluesky](https://img.shields.io/badge/Bluesky-@safepulse.net-1da1f2?logo=bluesky&logoColor=white)
+![X (Twitter)](https://img.shields.io/badge/X-@safepulse_dapp-1da1f2?logo=twitter&logoColor=white)
 
 </div>
 
@@ -56,7 +56,7 @@
 
 ## Introduction
 
-**Florune** is the inaugural application of the Contract Foundry ecosystem, a sovereign onchain agreement acosystem.
+**SafePulse** is the inaugural application of the Contract Foundry ecosystem, a sovereign onchain agreement acosystem.
       
 This permissioned but non-custodial infrastructure converges decentralized identity, tamper-proof document verification, and non-custodial smart contracts to replace intermediary-dependent processes with immutable, executable logic.
 
@@ -70,13 +70,13 @@ The result is a closed-loop system that eliminates disputes by design, providing
 
 Our mission is to build a world where individuals and organizations have **complete sovereignty** over their assets, data, and digital identity—empowering them to engage in **trustless, borderless agreements** without dependence on intermediaries.
 
-We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, Florune redefines how people transact, verify, and trust—onchain and on their own terms.
+We envision a future where **privacy, security, and autonomy** are built into every transaction, enabling **decentralized collaboration** at scale. By combining blockchain, verifiable credentials, and decentralized identity, SafePulse redefines how people transact, verify, and trust—onchain and on their own terms.
 
 ---
 
-## Florune Wallet: The Secure Gateway to the ContractFoundry Ecosystem
+## SafePulse Wallet: The Secure Gateway to the ContractFoundry Ecosystem
 
-Florune Wallet is the official, non-custodial interface for the Contract Foundry ecosystem, engineered to provide users with direct and sovereign control over their onchain agreements and assets. It functions as the primary command center for interacting with ecosystem smart contracts, enabling the management of digital identity, the execution of legally-binding document signatures, and the autonomous control of financial obligations and subscriptions.
+SafePulse Wallet is the official, non-custodial interface for the Contract Foundry ecosystem, engineered to provide users with direct and sovereign control over their onchain agreements and assets. It functions as the primary command center for interacting with ecosystem smart contracts, enabling the management of digital identity, the execution of legally-binding document signatures, and the autonomous control of financial obligations and subscriptions.
 
 Architected with security as its foundation, the wallet ensures all cryptographic operations from private key management to transaction and document signing are processed locally on the user's device. Private keys are secured within a multi-encryption-layered local database and never leave the client environment. Developed according to stringent secure coding principles, this design eliminates central points of failure, guaranteeing that users retain absolute, non-custodial control over their data and funds while engaging with the enterprise-grade capabilities of the Contract Foundry.
 
@@ -105,7 +105,7 @@ All source code is **closed-source and proprietary**.
 
 ## Features
 
-Florune provides comprehensive decentralized application and wallet functionalities:
+SafePulse provides comprehensive decentralized application and wallet functionalities:
 
 * Managing **RUNE tokens**
 * Issue contracts and create/manage/handle contracts
@@ -142,7 +142,7 @@ Florune provides comprehensive decentralized application and wallet functionalit
 * Analytics and crash reporting can be disabled in settings
 * Reporting vulnerabilities:
 
-  * Email: `security@florune.net`
+  * Email: `security@safepulse.net`
   * Or open an issue in this repository
 
 ---
@@ -173,19 +173,19 @@ Florune provides comprehensive decentralized application and wallet functionalit
 
 ## Documentation & More Info
 
-![Website](https://img.shields.io/badge/Website-florune.net-4caf50?logo=internet-explorer&logoColor=white)
+![Website](https://img.shields.io/badge/Website-safepulse.net-4caf50?logo=internet-explorer&logoColor=white)
 
 ---
 
 ## License
 
 Copyright © Contract Foundry. All Rights Reserved.
-Patent pending. Florune — Early Access.
+Patent pending. SafePulse — Early Access.
 
 ---
 
 ## Contact
 
-* Email: `info@florune.net`
+* Email: `info@safepulse.net`
 
 ---
