@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/%20Download-Android_Beta-brightgreen?style=for-the-badge&logo=android" alt="Download Android Beta">
 </a>
 
-<a href="https://app.safepulse.net">
+<a href="https://app.safepulse.xyz">
   <img src="https://img.shields.io/badge/🌐%20Access-Web_dApp-blue?style=for-the-badge&logo=web" alt="Access Web dApp Beta">
 </a>
 
@@ -31,8 +31,7 @@
 <div align="center">
   
 ![Telegram](https://img.shields.io/badge/Telegram-@safepulseapp-0088cc?logo=telegram&logoColor=white)
-![Website](https://img.shields.io/badge/Website-safepulse.net-4caf50?logo=internet-explorer&logoColor=white)
-![Bluesky](https://img.shields.io/badge/Bluesky-@safepulse.net-1da1f2?logo=bluesky&logoColor=white)
+![Website](https://img.shields.io/badge/Website-safepulse.xyz-4caf50?logo=internet-explorer&logoColor=white)
 ![X (Twitter)](https://img.shields.io/badge/X-@safepulse_dapp-1da1f2?logo=twitter&logoColor=white)
 
 </div>
@@ -142,7 +141,7 @@ SafePulse provides comprehensive decentralized application and wallet functional
 * Analytics and crash reporting can be disabled in settings
 * Reporting vulnerabilities:
 
-  * Email: `security@safepulse.net`
+  * Email: `security@safepulse.xyz`
   * Or open an issue in this repository
 
 ---
@@ -173,7 +172,7 @@ SafePulse provides comprehensive decentralized application and wallet functional
 
 ## Documentation & More Info
 
-![Website](https://img.shields.io/badge/Website-safepulse.net-4caf50?logo=internet-explorer&logoColor=white)
+![Website](https://img.shields.io/badge/Website-safepulse.xyz-4caf50?logo=internet-explorer&logoColor=white)
 
 ---
 
@@ -186,6 +185,6 @@ Patent pending. SafePulse — Early Access.
 
 ## Contact
 
-* Email: `info@safepulse.net`
+* Email: `info@safepulse.xyz`
 
 ---
