@@ -55,7 +55,7 @@
 
 ## Introduction
 
-**SafePulse** is the inaugural application of the Contract Foundry ecosystem, a sovereign onchain agreement acosystem.
+**SafePulse** is the permissined ecosystem, a sovereign onchain agreement acosystem and an safe place for Enterprise-Grade Transactions.
       
 This permissioned but non-custodial infrastructure converges decentralized identity, tamper-proof document verification, and non-custodial smart contracts to replace intermediary-dependent processes with immutable, executable logic.
 
@@ -85,7 +85,7 @@ Architected with security as its foundation, the wallet ensures all cryptographi
 
 | Service | Description |
 |----------|--------------|
-| **Escrow** | Arbiterless non-custodial escrow with flat deposit and minimal withdrawal fee. |
+| **Escrow** | Instant safe escrow - Arbiterless non-custodial escrow with flat deposit and minimal withdrawal fee. |
 | **Pledge Contracts** | Advanced progressive P2P payment, revocation, and document binding. |
 | **Verifiable Documents** | Secure, wallet-first, revocable documents with onchain proof. |
 | **Document Registry** | Lightweight public registry for timestamped document proofs. |
@@ -178,8 +178,7 @@ SafePulse provides comprehensive decentralized application and wallet functional
 
 ## License
 
-Copyright © Contract Foundry. All Rights Reserved.
-Patent pending. SafePulse — Early Access.
+Copyright © SafePulse. All Rights Reserved.Patent pending.
 
 ---
 
